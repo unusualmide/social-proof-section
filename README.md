@@ -19,8 +19,8 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ### Screenshot
 
-![Mobile Design](../social-proof-section-master/design/mobile-design.jpg)
-![Desktop-Design](../social-proof-section-master/design/desktop-design.jpg)
+![Mobile Design](./design/mobile-design.jpg)
+![Desktop-Design](./design/desktop-design.jpg)
 
 ### Links
 
